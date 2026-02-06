@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メディアノーチェ",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-06T17:47:26.839630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メディアノーチェ",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/01_メディアノーチェ_ZUTOMAYO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メディアノーチェ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_メディアノーチェ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
